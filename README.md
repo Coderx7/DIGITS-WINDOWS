@@ -7,6 +7,8 @@ DIGITS (the **D**eep Learning **G**PU **T**raining **S**ystem) is a webapp for t
 
 # Installation
 
+Note: For the latest instructions on how to make DIGITS run on windows visit : https://github.com/NVIDIA/DIGITS/blob/master/docs/BuildDigitsWindows.md
+
 For Windows Installation Visit this issue : https://github.com/NVIDIA/DIGITS/issues/47#issuecomment-205427707
 ### Note: 
 * You need to have the Microsoft branch of caffe installed. 
